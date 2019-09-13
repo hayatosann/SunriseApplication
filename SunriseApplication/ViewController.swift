@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SunriseApplication
 //
-//  Created by 笹野駿人 on 2019/09/11.
+//  Created by hayatosann on 2019/09/11.
 //  Copyright © 2019 hayatosann. All rights reserved.
 //
 
